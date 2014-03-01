@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Dartsduino::Games::X01::VERSION
   spec.authors       = ["Ikuo Terado"]
   spec.email         = ["eqobar@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{dartsduino games: X01 (301/501/701).}
+  spec.description   = %q{dartsduino games: X01 (301/501/701).}
   spec.homepage      = ""
   spec.license       = "MIT"
 
