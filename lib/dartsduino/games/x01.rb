@@ -4,6 +4,7 @@ module Dartsduino
   module Games
     module X01
       class Engine < ::Rails::Engine
+      end
     end
   end
 end
